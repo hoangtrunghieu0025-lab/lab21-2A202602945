@@ -129,4 +129,4 @@ Dựa trên kết quả đo đạc khoa học và toàn diện, bản fine-tune 
 - [ ] B2: Dataset miền riêng (`data/CUSTOM_DATASET.md`)
 - [ ] B3: Reasoning-trace collapse
 - [ ] B4: Quét rank có kiểm soát
-- [x] B5: HuggingFace Hub công khai (+2 điểm): https://huggingface.co/hoangtrunghieu0025-lab/qwen3.5-4b-cskh-lora
+- [x] B5: HuggingFace Hub công khai (+2 điểm): https://huggingface.co/itoktobenotok/qwen3.5-4b-cskh-lora
