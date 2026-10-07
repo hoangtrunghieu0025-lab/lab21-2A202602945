@@ -1,0 +1,8 @@
+{
+  "mask_mode": "assistant-only",
+  "n_supervised": 39,
+  "n_total": 94,
+  "supervised_fraction": 0.4149,
+  "answer_is_supervised": true,
+  "question_is_masked": true
+}
